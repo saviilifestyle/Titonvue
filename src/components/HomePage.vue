@@ -19,7 +19,7 @@
 
                                 <v-card-subtitle>This is a card subtitle</v-card-subtitle>
                             </v-card-item>
-                            <v-img height="200px" src="https://cdn.vuetifyjs.com/images/cards/sunshine.jpg" cover ></v-img>
+                            <v-img height="200px" src="https://www.tripsavvy.com/thmb/zuGXtus1yBE_U2Yr3_xZOqHQJJM=/2121x1414/filters:fill(auto,1)/GettyImages-592015723-59543d513df78cdc29891b8c.jpg" cover ></v-img>
 
                             <v-card-text>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus!
@@ -31,7 +31,7 @@
 
                             <v-card-subtitle>This is a card subtitle</v-card-subtitle>
                             </v-card-item>
-                            <v-img height="200px" src="https://cdn.vuetifyjs.com/images/cards/sunshine.jpg" cover ></v-img>
+                            <v-img height="200px" src="https://th.bing.com/th/id/OIP.0ZGh49PTOhPbquZYcf-60gHaFj?rs=1&pid=ImgDetMain" cover ></v-img>
 
                             <v-card-text>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus!
@@ -49,7 +49,7 @@
 
                     <v-card-subtitle>This is a card subtitle</v-card-subtitle>
                     </v-card-item>
-                    <v-img height="200px" src="https://img.freepik.com/premium-photo/tumis-jamur-kancing-oseng-jamur-kancing-mushrooms-sauteed-plate_581937-1386.jpg?ga=GA1.1.1450384631.1738665289&semt=ais_hybrid" cover ></v-img>
+                    <v-img height="200px" src="https://img.freepik.com/premium-photo/tumis-jamur-kancing-oseng-jamur-kancing-mushrooms-sauteed-plate_581937-1386.jpg?ga=GA1.1.1450384631.1738665289&semt=ais_hybrid " cover ></v-img>
 
                     <v-card-text>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus!

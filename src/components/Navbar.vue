@@ -17,11 +17,11 @@
             
         </div>
         <div>
-            <v-btn to="/restaurantList" color="white" dark >Restaurants </v-btn>
+            <v-btn to="/restaurant" color="white" dark >Restaurants </v-btn>
             
         </div>
         <div>
-            <v-btn to="/booking" color="white" dark >Book a Reservation </v-btn>
+            <v-btn to="/bookings" color="white" dark >Book a Reservation </v-btn>
             
         </div>
         <div>
